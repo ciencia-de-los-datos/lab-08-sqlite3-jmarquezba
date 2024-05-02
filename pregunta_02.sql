@@ -18,5 +18,5 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
-SELECT COUNT(*) AS Total
+SELECT COUNT(*)
 FROM tbl1;
